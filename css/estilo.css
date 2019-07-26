@@ -1,0 +1,19 @@
+﻿body{
+	background-image: url('fondo.jpg');
+}
+
+h1{
+	font-family: cursive, Arial;
+	color: white;
+	text-align: center;
+	font-size: 40pt;
+	font-style: oblique;
+}
+
+#map{
+	text-align:center;
+}
+
+#pano{
+	text-align:center;
+}
